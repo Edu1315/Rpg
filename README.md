@@ -39,4 +39,4 @@ Fluxo resumido:
 
 ### 1. Clonar o repositório
 ```bash
-git clone https://github.com/Edu1315/RPG.git
+git clone https://github.com/Edu1315/Rpg.git
